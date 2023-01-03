@@ -7,6 +7,8 @@ In this challenge I have to demonstrate my knowledge in SQL as a newly hired dat
 ## Process
 
 ## Data Modelling and Engineering
+Here i inspected tge six csv files  and skectehd an ERD as shown below
+![QuickDBD-Empl](https://user-images.githubusercontent.com/111699427/210419223-5a70b216-6a4e-4969-a9a8-6c5ca7c028ec.jpg)
 
 ## Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
